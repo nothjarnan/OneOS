@@ -1,3 +1,5 @@
+Forked by Nothy (To never be released, just for fun and testing & learning.)
+
 Version 1.2 (beta)
 ====
 I am currently working on version 1.2, I'm not sure when it will be released, but it's got some *huge* changes. The most significant being the new Bedrock framework which revolutionizes how GUI programs are made. You can try it out, by downloading this git, but the latest build may crash immediatly, so don't expect it to work. If it crashes or doesn't work well download the latest stable commit (pre-Bedrock): https://github.com/oeed/OneOS/archive/c3c1e7eb061397cecf49d74a0eac6dc03fb28f48.zip
